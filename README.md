@@ -12,7 +12,7 @@
 
 ## Output Video
 
-https://github.com/RomitKatrodiya/News_app/blob/master/screenshots/news_app.mp4
+https://user-images.githubusercontent.com/111499361/218247524-70adc6f1-aeb6-401a-855f-fe59df2b6120.mp4
 
 ## App UI
 
