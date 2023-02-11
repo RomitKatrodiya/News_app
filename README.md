@@ -10,9 +10,9 @@
 <li>News by Category wise</li>
 </ul>
 
-## Output GIF
+## Output Video
 
-<img src="https://github.com/RomitKatrodiya/News_app/blob/master/screenshots/news.GIF" style=" height:400px; " data-target="animated-image.originalImage">
+https://github.com/RomitKatrodiya/News_app/blob/master/screenshots/news_app.mp4
 
 ## App UI
 
